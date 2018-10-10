@@ -19,7 +19,7 @@ git init;
 
 5. git diff 哪里发生了更改;
 
-6. git commit -m "一定要写煮熟"  在暂存区里把代码放入本地仓库产生版本;
+6. git commit -m "一定要写注释"  在暂存区里把代码放入本地仓库产生版本;
 
 7. git reset --hard 版本号   版本还原;
 
